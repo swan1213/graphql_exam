@@ -1,0 +1,9 @@
+.ReservationList ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.ReservationList li {
+  display: block;
+  margin-bottom: 0.5em;
+}
